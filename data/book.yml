@@ -1,0 +1,33 @@
+---
+title:
+  main: "The Ernst Ludwig Kirchner Project"
+  short: "Kirchner"
+pub_date: 2016-05-05
+creator:
+  - name: GRI DAH
+    first_name: GRI
+    last_name: DAH
+    role: aut
+    file_as: DAH, GRI
+author_as_it_appears:
+  - GRI DAH
+publisher: Getty Research Institute
+editions:
+  - name: Online
+    type: InteractiveResource
+    format: text/html
+    link: https://ngeller.github.io/ngeller/
+    additional_description:
+  - name: PDF OF Text (1.2 MB)
+    type: PhyiscalObject
+    format: PDF
+    pages: 228
+    link: https://deepblue.lib.umich.edu/bitstream/handle/2027.42/111470/ngeller_1.pdf?sequence=1&isAllowed=y
+description: "Ernst Ludwig Kirchner by GRIDAH"
+subjects:
+  - subject__ebooks
+rights: >-
+  © 2016 J. Paul Getty Trust
+languages:
+  - en
+pub_id: Test ebook
