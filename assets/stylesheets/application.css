@@ -4004,13 +4004,11 @@ html {
   -o-justify-content: center;
   justify-content: center;
   -ms-flex-pack: center;
-  background-image: url("../images/GSW_Collage_2017-01-13.jpg");
+  background-image: url("../GSW_Collage_2017-01-13.jpg");
   background-color: #e7e7e7;
   background-position: center center;
   background-size: cover;
-  height: 120vh;
-  margin-bottom: 1.65em;
-  padding: 0.825em; }
+  height: 140vh; }
   .cover .cover-title {
     text-align: center;
     font-size: 5em;
